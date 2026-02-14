@@ -110,6 +110,8 @@ Anything that can reach the port can hit this.
 
 ### On **Windows**, `open` (v6.4.0) does:
 
+see https://www.npmjs.com/package/open
+
 ```js
 const command = 'cmd';
 const args = ['/c', 'start', '""', '/b', target];
