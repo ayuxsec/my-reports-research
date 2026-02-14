@@ -110,7 +110,7 @@ Anything that can reach the port can hit this.
 
 ### On **Windows**, `open` (v6.4.0) does:
 
-see https://www.npmjs.com/package/open
+see https://www.npmjs.com/package/open/v/6.4.0
 
 ```js
 const command = 'cmd';
